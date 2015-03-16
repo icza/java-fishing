@@ -14,7 +14,7 @@
 |Awards:|[![](http://mac.softpedia.com/base_img/softpedia_free_award_f.gif)](http://mac.softpedia.com/progClean/Fishing-Clean-65187.html)|
 
 ## Screenshot ##
-http://lh5.ggpht.com/_jDMClHrENz8/SRAlWji-WbI/AAAAAAAAGiE/Lw6wM-2G1wA/s800/Fishing%20usage%2002.JPG
+![http://lh5.ggpht.com/_jDMClHrENz8/SRAlWji-WbI/AAAAAAAAGiE/Lw6wM-2G1wA/s800/Fishing%20usage%2002.JPG](http://lh5.ggpht.com/_jDMClHrENz8/SRAlWji-WbI/AAAAAAAAGiE/Lw6wM-2G1wA/s800/Fishing%20usage%2002.JPG)
 
 [More screenshots...](Screenshots.md)
 
